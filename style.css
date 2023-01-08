@@ -1,0 +1,188 @@
+*{
+    font-family: "Work Sans",sans-serif;
+}
+
+.background-image{
+background-image: url("./images/banner/banner3.png");
+background-color: #cccccc;
+height: 816px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: relative;
+margin:none;
+padding:none;
+background-size:cover;
+background-repeat: no-repeat;
+}
+
+.header-content{
+    text-align: right;
+    position: absolute;
+    top:25%;
+    left:50%;
+    margin-right: 100px;
+    color:#cccccc;
+}
+
+.button.first{
+    background-color:#cccccc ;
+    color:#005fac;
+    width: 200px;
+    height:64px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 8px;
+    border-style: none;
+}
+.button-second{
+    color:#cccccc ;
+    background-color:#005FAC;
+    width: 160px;
+    height:64px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 8px;
+    border-style: none;
+}
+.header-title{
+    font-weight: 700;
+    font-size: 65px;
+}
+.header-sub-title{
+    font-weight: 400;
+    font-size:16px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 110px;
+}
+#main-1{
+    margin-top: 160px;
+    margin-left: 25px;
+}
+.main-title{
+    font-weight: 700;
+    font-size: 40px;
+    margin-right: 320px;
+}
+.main-subtitle{
+    font-weight: 700;
+    font-size: 16px;
+    margin-right: 320px;
+}
+.tick{
+    display: flex;
+}
+.tick-image{
+    width:24px;
+    height: 24px;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+.tick-content{
+    font-weight: 400;
+    font-size: 16px;
+
+}
+.plan-content{
+    display:flex;
+    justify-content: center;
+}
+.plan{
+    text-align: center;
+    margin-top: 75px;
+    justify-content: center;
+}
+.my-plan{
+    display:flex;
+    justify-content: center;
+    gap:50px;
+}
+.plan-details{
+    font-size: 20px;
+    font-weight:300 ;
+    color:grey;
+}
+.plan-name{
+    font-size: 30px;
+    font-weight:600;
+    
+}
+.grad{
+margin-left:  175px; ;
+margin-top: 150px ;
+padding-bottom: 150px;
+justify-content: center;
+
+}
+
+
+.grad-title{
+    font-size: 50px;
+    font-weight:700px;
+    color:#cccccc;
+    justify-content: center;
+}
+.grad-content{
+    margin-left: 65px;
+    padding-top: 60px;
+    right:25%;
+    justify-content: center;
+}
+.backg-image{
+    background: url("./images/gradient1.png"), url("./images/watch.png");
+    width:1000px;
+    height: 250px;
+    margin-bottom: 20px;
+    border-radius: 9px;
+    justify-content: center;
+}
+
+.input{
+    width: 325px;
+    height: 65px;
+    background-color:black;
+    color: #cccccc;
+    margin-bottom: 30px;
+    border-color: #cccccc;
+    font-weight: 400;
+    font-size: 20px;
+}
+.footer{
+    background-color: black;
+    color: #cccccc;
+    left: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.future{
+    margin-left: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 300px;
+
+}
+
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.info-footer{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.subs{
+    margin-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;   
+}
+
+.socials.{
+    padding-right: 20px;
+}
